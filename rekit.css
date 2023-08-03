@@ -61,11 +61,10 @@ rekit.css
 
 .Section{
 padding-top: 90px;
-padding-right: 100px;
+padding-left: 200px;
 text-align: left;
 vertical-align: top;
 display: inline-block;
-padding-left:20px ;
 }
 
 .little-section{
@@ -79,7 +78,7 @@ padding-left:20px ;
 .imgsection{
   padding-top: 100px;
 display: inline-block;
-padding-left: 25px;
+padding-left: 340px;
 }
 
 .subtitledesc{
@@ -92,14 +91,14 @@ padding-left: 25px;
   padding-bottom:50px;
   padding-left: 50px;
 }
-/* 
-  .conditions {
+
+  /* .conditions {
     /* Set the desired spacing between elements */
     margin: 20px 20px;
     font-size:10px ;
     color: #4c8c5b;
     justify-content: space-between;
-  }
+  } */
 
 
  .conditions {
@@ -114,16 +113,19 @@ padding-left: 25px;
 }
 
 .naturetitle{
-  padding-top: 60px;
-padding-right: 1100px;
-font-size: 18px;
+  padding-right: 200px;
+  padding-top:60px;
+font-size: 36.4px;
 color: #206a39;
+margin-bottom: 0px;
 }
 
 .naturedesc{
-  padding-left: 540px;
-  color: #4c8c5b;
-font-size: 22px;
+  color: #216B39;
+font-size: 21.6px;
+padding-left: 470px;
+font-weight: 500;
+margin-top: 0px;
 }
 
 .graphs {
@@ -159,3 +161,15 @@ font-size: 22px;
    padding-top: 15px ;
   }
 
+  .crown{
+    padding-top: 100px;
+    margin-bottom: 0px;
+    font-size: 36.4px;
+    color: #216B39;
+  }
+
+  .crowndesc{
+    font-size: 21.8px;
+    color: #186230;
+    font-weight:400;
+  }
